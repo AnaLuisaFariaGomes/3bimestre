@@ -1,4 +1,3 @@
-import 'dart:math';
 import 'package:flutter/material.dart';
 import 'package:navegacao/componentes/item_categotia.dart';
 import 'package:navegacao/data/mock_data.dart';
